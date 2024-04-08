@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ceb8b64.css",
-    "main.js": "/static/js/main.9ac8c53c.js",
-    "static/js/453.06c464ff.chunk.js": "/static/js/453.06c464ff.chunk.js",
-    "index.html": "/index.html",
-    "main.8ceb8b64.css.map": "/static/css/main.8ceb8b64.css.map",
-    "main.9ac8c53c.js.map": "/static/js/main.9ac8c53c.js.map",
-    "453.06c464ff.chunk.js.map": "/static/js/453.06c464ff.chunk.js.map"
+    "main.css": "/RockScissorPaper/static/css/main.8ceb8b64.css",
+    "main.js": "/RockScissorPaper/static/js/main.c1422526.js",
+    "static/js/453.06c464ff.chunk.js": "/RockScissorPaper/static/js/453.06c464ff.chunk.js",
+    "index.html": "/RockScissorPaper/index.html",
+    "main.8ceb8b64.css.map": "/RockScissorPaper/static/css/main.8ceb8b64.css.map",
+    "main.c1422526.js.map": "/RockScissorPaper/static/js/main.c1422526.js.map",
+    "453.06c464ff.chunk.js.map": "/RockScissorPaper/static/js/453.06c464ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ceb8b64.css",
-    "static/js/main.9ac8c53c.js"
+    "static/js/main.c1422526.js"
   ]
 }
